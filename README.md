@@ -1,1 +1,1 @@
-chatbot ersu
+Info bot per ersu
